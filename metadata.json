@@ -1,0 +1,5 @@
+{
+  "name": "RoadCrack AI - 智能路面裂纹分割系统",
+  "description": "基于DeepCrack数据集的道路裂纹自动分割方法设计与实现演示平台",
+  "requestFramePermissions": []
+}
